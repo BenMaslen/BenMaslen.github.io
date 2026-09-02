@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach statistics and data science with an emphasis on conceptual understanding, practical application and active engagement. My aim is to help students become confident users of statistical reasoning—not simply users of statistical or data science software."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching experience",
+    "text": "Teaching experience\n\n\n\nCourse\nRole\nInstitution\nYear\n\n\n\n\nCivil and Environmental Engineering Computations (CVEN2002)\nLecturer\nSchool of Mathematics and Statistics, UNSW\n2026\n\n\nIntroduction to Mixed Models with R\nLecturer\nStats Central, UNSW\n2026\n\n\nStatistics for Medical Science\nLecturer\nStats Central, UNSW\n2025-2026\n\n\nIntroduction to Regression with R\nLecturer\nStats Central, UNSW\n2019, 2021-2025\n\n\nIntroduction to R\nLecturer\nStats Central, UNSW\n2019, 2022\n\n\nIntroduction to Statistics with R\nLecturer\nStats Central, UNSW\n2022\n\n\nEcological statistics short course\nLecturer\nStats Central, UNSW\n2018-2019, 2021-2022\n\n\nHigher Probability and Stochastic Processes (MATH3901)\nAcademic Demonstrator\nSchool of Mathematics and Statistics, UNSW\n2018\n\n\nNumerical Methods and Statistics (MATH2089)\nAcademic Demonstrator\nSchool of Mathematics and Statistics, UNSW\n2018\n\n\nMathematics for Life and Social Sciences (MATH1031)\nAcademic Demonstrator\nSchool of Mathematics and Statistics, UNSW\n2018"
+  },
+  {
+    "objectID": "publications_old.html",
+    "href": "publications_old.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below are selected publications. Replace these examples with your own outputs and link each title to the publisher, preprint, code repository or dataset.\n\n\nYour Name, Coauthor A, Coauthor B (2026). Article title goes here. Journal Name, volume, article number. [Paper] · [Code]\nOne sentence explaining the contribution or importance of the paper in accessible language.\n\n\n\nCoauthor A, Your Name, Coauthor B (2025). Another article title goes here. Journal Name, volume, pages. [Paper]\nOne sentence explaining the contribution or importance of the paper."
+  },
+  {
+    "objectID": "publications_old.html#selected-publications",
+    "href": "publications_old.html#selected-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Below are selected publications. Replace these examples with your own outputs and link each title to the publisher, preprint, code repository or dataset.\n\n\nYour Name, Coauthor A, Coauthor B (2026). Article title goes here. Journal Name, volume, article number. [Paper] · [Code]\nOne sentence explaining the contribution or importance of the paper in accessible language.\n\n\n\nCoauthor A, Your Name, Coauthor B (2025). Another article title goes here. Journal Name, volume, pages. [Paper]\nOne sentence explaining the contribution or importance of the paper."
+  },
+  {
+    "objectID": "publications_old.html#software-and-data",
+    "href": "publications_old.html#software-and-data",
+    "title": "Publications",
+    "section": "Software and data",
+    "text": "Software and data\n\nPackage or software name — short description and link to repository or documentation.\nDataset or resource name — short description and link, where appropriate."
+  },
+  {
+    "objectID": "publications_old.html#full-publication-list",
+    "href": "publications_old.html#full-publication-list",
+    "title": "Publications",
+    "section": "Full publication list",
+    "text": "Full publication list\nFor a complete and automatically formatted publication list, you can later replace this page with a BibTeX-based Quarto bibliography. In the meantime, a manually maintained list is perfectly acceptable and often easier to check."
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Australian Statistical Conference, Perth, Australia, 2025\n\nMentor for statistical consulting session\n\n\n\n\n\n\nAustralian Fish Biology Conference, Darwin, Australia, 2025\nInternational Statistical Ecology Conference, Swansea, Wales, 2025\nUNSW Mathematics and Statistics Postgraduate Conference, Sydney, Australia, 2023, 2024\n\nPeoples choice award for best presentation, 2024\n\nUNSW 1 minute thesis competition, Sydney, Australia 2022\n\n1st place in the School of Mathematics and Statistics\n\nStatistical Ecology and Environmental Monitoring Conference, Queenstown, New Zealand, 2017\n\n\n\n\n\nInternational Statistical Ecology Conference, Mérida, México, 2027"
+  },
+  {
+    "objectID": "presentations.html#conference-presentations",
+    "href": "presentations.html#conference-presentations",
+    "title": "Presentations",
+    "section": "",
+    "text": "Australian Statistical Conference, Perth, Australia, 2025\n\nMentor for statistical consulting session\n\n\n\n\n\n\nAustralian Fish Biology Conference, Darwin, Australia, 2025\nInternational Statistical Ecology Conference, Swansea, Wales, 2025\nUNSW Mathematics and Statistics Postgraduate Conference, Sydney, Australia, 2023, 2024\n\nPeoples choice award for best presentation, 2024\n\nUNSW 1 minute thesis competition, Sydney, Australia 2022\n\n1st place in the School of Mathematics and Statistics\n\nStatistical Ecology and Environmental Monitoring Conference, Queenstown, New Zealand, 2017\n\n\n\n\n\nInternational Statistical Ecology Conference, Mérida, México, 2027"
+  },
+  {
+    "objectID": "presentations.html#recorded-technical-seminars",
+    "href": "presentations.html#recorded-technical-seminars",
+    "title": "Presentations",
+    "section": "Recorded technical Seminars",
+    "text": "Recorded technical Seminars\nA SHAP in the Dark: Interpretable machine learning through SHAP values, Monthly Seminar, UNSW Stats Central, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlthough machine learning algorithms perform well at prediction tasks, with large numbers of model parameters it can be difficult to untangle what is going on under the hood. In this talk I discuss how SHAP values can be used to interpret these black box models, with a brief introduction into effect sizes and machine learning in general. Particularly in research, interpretable machine learning is integral to their integration and usefulness.\nView Slides View Recording\n\n\nWiggly Worries: What to Do When Your Data Isn’t Linear, Monthly Seminar, UNSW Stats Central, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat happens when your data doesn’t play nice and the linearity assumption of traditional approaches cannot be satisfied? In this talk I discuss methods to deal with non-linear data, with some examples in R using splines with generalised additive models.\nView Recording"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "You can download my current CV here: Download CV."
+  },
+  {
+    "objectID": "cv.html#current-position",
+    "href": "cv.html#current-position",
+    "title": "Curriculum vitae",
+    "section": "Current position",
+    "text": "Current position\nLecturer, School of Mathematics and Statistics, UNSW, 2026–present"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum vitae",
+    "section": "Education",
+    "text": "Education\n\nPhD in Statistics, University of New South Wales & CSIRO DATA61, 2025\n1st Class Honours in Statistics, University of New South Wales, 2017\nBachelor of Advanced Science (Major in Statistics, Minor in Marine Science), University of New South Wales, 2016"
+  },
+  {
+    "objectID": "cv.html#research-funding-and-awards",
+    "href": "cv.html#research-funding-and-awards",
+    "title": "Curriculum vitae",
+    "section": "Research funding and awards",
+    "text": "Research funding and awards\n\nPeoples choice award for best presentation at UNSW Mathematics and Statistics Postgraduate Conference, 2024\nTjanpi Award for best Student paper in Environmental Statistics (runner up), 2023\n1st place in 1 minute thesis competition in the UNSW School of Mathematics and Statistics, 2022\nAustralian Government Research Training program scholarship, 2021\nCSIRO Data61 PHD top up scholarship, 2021\nUNSW School of Mathematics and Statistics PHD top up scholarship, 2021"
+  },
+  {
+    "objectID": "cv.html#academic-service",
+    "href": "cv.html#academic-service",
+    "title": "Curriculum vitae",
+    "section": "Academic service",
+    "text": "Academic service\n\nStatistical Consultant Mentor in Statistical Consulting Session, Australian Statistical Conference, 2025\nOrganisor for UNSW ecological statistics research group ecostats, 2021-2024"
+  },
+  {
+    "objectID": "cv.html#professional-memberships",
+    "href": "cv.html#professional-memberships",
+    "title": "Curriculum vitae",
+    "section": "Professional memberships",
+    "text": "Professional memberships\n\nStatistical Society of Australia (SSA)\nAustralian Society for Fish Biology (ASFB)"
+  },
+  {
+    "objectID": "cv.html#industry-experience",
+    "href": "cv.html#industry-experience",
+    "title": "Curriculum vitae",
+    "section": "Industry experience",
+    "text": "Industry experience\nStatistical Consultant, Stats Central, UNSW, 2018-2019, 2021-2026\nCollaborated with over 220 academics, researchers, and higher degree research students at the University of New South Wales and partner institutions from a variety of disciplines to provide appropriate design and analysis advice relative to their research questions and data properties. I also regularly prepared content and facilitated seminars and courses on coding and statistical analysis methods for researchers and higher degree research students.\nData Scientist, Wentworth Group of Concerned Scientists, 2020, 2026\nApplied statistical analysis to environmental policy questions for the Wentworth Group of Concerned Scientists, investigating changes in the outward flow and reliability of water shares under a drier climate in the Murray-Darling Basin and land clearing in NSW following 2016 environmental reforms.\nStatistical Insights Analyst, Healthdirect, 2020-2021\nDeveloped reporting and advanced modelling insights to enhance the management of health and user experience data across a range of Healthdirect services.\nData Analyst, Natural Resource Accesss Regulator, NSW Government, 2018-2019\nDeveloped and implemented a reporting and data management system for the NSW Natural Resource Access Regulator. This enabled the tracking of workflow for the strategic management and triaging of tasks."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Ben Maslen",
+    "section": "",
+    "text": "I am a Lecturer in the School of Mathematics and Statistics at the University of New South Wales. My research sits at the intersection of statistics, artificial intelligence, and ecology, with a focus on developing methods that help ecologists monitor, assess and protect the natural environment. I work particularly with remote underwater video, ecological abundance data and multivariate study design, aiming to turn complex environmental data into reliable evidence for biodiversity monitoring and decision-making.\nI completed my PhD in Statistics at UNSW and CSIRO Data61 in 2025, where I developed statistical and AI methods for ecological monitoring. This work included movement-aware object detection for underwater video, the assessment of methods used to analyse these videos, and the development of a novel means to estimating fish abundance while accounting for imperfect detection using distance sampling. I have also developed a power-analysis tool to answer study design questions when collecting multivariate ecological data with an accompanying R package ecopower, which has been downloaded 14,429 times from CRAN.\nBefore becoming a Lecturer, I worked for more than six years as a Statistical Consultant at UNSW Stats Central, supporting researchers and Higher Degree Research students with study design, statistical modelling and analysis. Across my research, teaching and consulting, I collaborate with ecologists, environmental scientists, other statisticians and data scientists to develop practical, reproducible methods that contribute to environmental resilience."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Dr Ben Maslen",
+    "section": "",
+    "text": "I am a Lecturer in the School of Mathematics and Statistics at the University of New South Wales. My research sits at the intersection of statistics, artificial intelligence, and ecology, with a focus on developing methods that help ecologists monitor, assess and protect the natural environment. I work particularly with remote underwater video, ecological abundance data and multivariate study design, aiming to turn complex environmental data into reliable evidence for biodiversity monitoring and decision-making.\nI completed my PhD in Statistics at UNSW and CSIRO Data61 in 2025, where I developed statistical and AI methods for ecological monitoring. This work included movement-aware object detection for underwater video, the assessment of methods used to analyse these videos, and the development of a novel means to estimating fish abundance while accounting for imperfect detection using distance sampling. I have also developed a power-analysis tool to answer study design questions when collecting multivariate ecological data with an accompanying R package ecopower, which has been downloaded 14,429 times from CRAN.\nBefore becoming a Lecturer, I worked for more than six years as a Statistical Consultant at UNSW Stats Central, supporting researchers and Higher Degree Research students with study design, statistical modelling and analysis. Across my research, teaching and consulting, I collaborate with ecologists, environmental scientists, other statisticians and data scientists to develop practical, reproducible methods that contribute to environmental resilience."
+  },
+  {
+    "objectID": "index.html#selected-links",
+    "href": "index.html#selected-links",
+    "title": "Dr Ben Maslen",
+    "section": "Selected links",
+    "text": "Selected links\n\n\n\nResearch\nExplore my current research, highlighted publications, supervision and collaboration details.\n\n\nTeaching\nFind information about my teaching experience\n\n\n Presentations\nFind information about my conference presentations and recorded technical seminars.\n\n\n Publications\nBrowse research outputs and links to papers and code.\n\n\nCV\nDownload my current curriculum vitae and find details about my education, research funding and awards, academic service, professional memberships and industry experience."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "R package ecopower - Estimates power and performs equivalence testing for multivariate abundance data to answer ecological study design and habitat restoration questions. The software uses a Gaussian copula model for simulation, expert informed multivariate effect sizes, and a critical value based approach to estimating power. The package also provides functions for parameterising multivariate effect sizes and simulating multivariate abundance data jointly.\nTassie BRUV: A benchmark data set for computer vision and movement quantification algorithms (2025) - The Tassie BRUV dataset is an image dataset that we generated as a benchmark dataset using Baited Remote Underwater Videos (BRUVs) from chain moorings and environmentally friendly moorings in Tasmania. These videos were collected by CSIRO and OzFish volunteers as part of a separate study to observe if there are differences in the community abundance of fish species between chain and environmentally friendly moorings in this area. This dataset can be used to benchmark computer vision techniques, and, in conjunction with the surrounding video footage, techniques that include movement information."
+  },
+  {
+    "objectID": "publications.html#software-and-data",
+    "href": "publications.html#software-and-data",
+    "title": "Publications",
+    "section": "",
+    "text": "R package ecopower - Estimates power and performs equivalence testing for multivariate abundance data to answer ecological study design and habitat restoration questions. The software uses a Gaussian copula model for simulation, expert informed multivariate effect sizes, and a critical value based approach to estimating power. The package also provides functions for parameterising multivariate effect sizes and simulating multivariate abundance data jointly.\nTassie BRUV: A benchmark data set for computer vision and movement quantification algorithms (2025) - The Tassie BRUV dataset is an image dataset that we generated as a benchmark dataset using Baited Remote Underwater Videos (BRUVs) from chain moorings and environmentally friendly moorings in Tasmania. These videos were collected by CSIRO and OzFish volunteers as part of a separate study to observe if there are differences in the community abundance of fish species between chain and environmentally friendly moorings in this area. This dataset can be used to benchmark computer vision techniques, and, in conjunction with the surrounding video footage, techniques that include movement information."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\nTripovich, J. S., Appleby, D., Nelson, C. M. V., Xu, Z., Klinck, H., Roe, P., Pitcher, B.J., Maslen, B. (2026). Monitoring bird acoustic activity in the Samford Valley, Queensland: Impacts of 2019–20 Black Summer Fires. Queensland: Impacts of, 20. Available at SSRN: https://doi.org/10.2139/ssrn.7217945"
+  },
+  {
+    "objectID": "publications.html#published-research",
+    "href": "publications.html#published-research",
+    "title": "Publications",
+    "section": "Published research",
+    "text": "Published research\n\n\nBrandenburger, C. R., Maslen, B., Sherwin, W. B., & Moles, A. T. (2022). Weedy and seedy: The rapid evolution of life-history characteristics in an introduced daisy. AoB Plants, 14(5), plac038. https://doi.org/10.1093/aobpla/plac038\n\n\nColeman, A., Maslen, B. J., & Foster, R. (2024). Inequities in PrEP use according to medicare status in a publicly funded sexual health clinic; a retrospective analysis. Sexual Health, 21(2), SH23141. https://doi.org/10.1071/SH23141\n\n\nCooper, E. A., Buxey, K. N., Maslen, B. J., & Muhlmann, M. (2020). Retrospective analysis of a bi-national colorectal cancer audit to characterize stage II colon cancer patients who were offered adjuvant chemotherapy. ANZ Journal of Surgery, 90(6), 1136–1140. https://doi.org/10.1111/ans.15735\n\n\nFolpp, H. R., Schilling, H. T., Clark, G. F., Lowry, M. B., Maslen, B., Gregson, M., & Suthers, I. M. (2020). Artificial reefs increase fish abundance in habitat-limited estuaries. Journal of Applied Ecology, 57(9), 1752–1761. https://doi.org/10.1111/1365-2664.13666\n\n\nFord, A. M., Grootemaat, S., Towers, I., Maslen, B., Cornwell, W. K., Ooi, M. K., & Falster, D. S. (2025). Assessing the effect of tissue and fire-response traits on plant growth rates post-disturbance in eastern australia. Functional Ecology, 39(1), 320–332. https://doi.org/10.1111/1365-2435.14698\n\n\nIgnacio, B. L., Moles, A. T., Offord, C. A., Chiarenza, G. M., Maslen, B., Hemmings, F. A., Leggett, K., & Xirocostas, Z. A. (2026). Soil seed bank holds some potential for natural regeneration in a semi-arid rangeland. Austral Ecology, 51(8), e70278. https://doi.org/10.1111/aec.70278\n\n\nKhan, S., Schilling, H. T., Khan, M. A., Patel, D. K., Maslen, B., & Miyan, K. (2021). Stock delineation of striped snakehead, channa striata using multivariate generalised linear models with otolith shape and chemistry data. Scientific Reports, 11(1), 8158. https://doi.org/10.1038/s41598-021-87143-9\n\n\nKirubakaran, R., Hennig, S., Maslen, B., Day, R. O., Carland, J. E., & Stocker, S. L. (2022). Evaluation of published population pharmacokinetic models to inform tacrolimus dosing in adult heart transplant recipients. British Journal of Clinical Pharmacology, 88(4), 1751–1772. https://doi.org/10.1111/bcp.15091\n\n\nLangley, M., Vergés, A., Maslen, B., Lynch, T., & Poore, A. (2026). Remote underwater video and analysis with AI show differences between fish communities at chain moorings and at environmentally friendly moorings. Marine & Freshwater Research, 77(3). https://doi.org/10.1071/MF25208\n\n\nLau, S. M., Popovic, G., Maslen, B., & Depczynski, B. (2026). Early, unplanned readmission in diabetes inpatients: Comparing the utility and performance of machine learning and traditional prediction models to guide timely diabetes management team review. Diabetic Medicine, 43(2), e70186. https://doi.org/10.1111/dme.70186\n\n\nLeroy, E. C., Royer, J.-Y., Alling, A., Maslen, B., & Rogers, T. L. (2021). Multiple pygmy blue whale acoustic populations in the indian ocean: Whale song identifies a possible new population. Scientific Reports, 11(1), 8762. https://doi.org/10.1038/s41598-021-88062-5\n\n\nMaslen, B. (2025). Swimming in data: Using AI and distance sampling to improve the analysis of remote underwater videos in estimating fish abundance [PhD thesis, University of New South Wales (Australia)]. https://doi.org/10.26190/unsworks/31635\n\n\nMaslen, B., Popovic, G., Lim, M., Marzinelli, E., & Warton, D. (2023). How many sites? Methods to assist design decisions when collecting multivariate data in ecology. Methods in Ecology and Evolution, 14(6), 1564–1573.https://doi.org/10.1111/2041-210X.14094\n\n\nMaslen, B., Popovic, G., Wang, D., Jansen, A., & Warton, D. (2025). The motion picture: Leveraging movement to enhance AI object detection in ecology. Ecology and Evolution, 15(8), e71996. https://doi.org/10.1002/ece3.71996\n\n\nMesaglio, T. P., Schilling, H. T., Adler, L., Ahyong, S. T., Maslen, B., & Suthers, I. M. (2021). The ecology of lepas-based biofouling communities on moored and drifting objects, with applications for marine forensic science. Marine Biology, 168(2), 21. https://doi.org/10.1007/s00227-021-03822-1\n\n\nMuskovic, W., Slavich, E., Maslen, B., Kaczorowski, D. C., Cursons, J., Crampin, E., & Kavallaris, M. (2022). High temporal resolution RNA-seq time course data reveals widespread synchronous activation between mammalian lncRNAs and neighboring protein-coding genes. Genome Research, 32(8), 1463–1473. https://doi.org/10.1101/gr.276818.122\n\n\nRadford, C., McNutt, J. W., Rogers, T., Maslen, B., & Jordan, N. (2020). Artificial eyespots on cattle reduce predation by large carnivores. Communications Biology, 3(1), 430. https://doi.org/10.1038/s42003-020-01156-0"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on:\n\nMethods to improve the way in which ecologists analyse remote underwater videos to sample fish assemblages using distance sampling and AI object detection algorithms.\nPower analysis procedure for multivariate ecology data to answer study design questions.\nApplied computational statistics and machine learning research in collaboration with other research partners from ecology, medicine, pharmacology, public health and genomics.\n\nI am currently working on:\n\nAnalysing the statistical properties of methods used to analyse remote underwater videos using AI object detection algorithms and Monte Carlo Markov Chain simulations.\nDevelop a novel method for estimating abundance whilst accounting for imperfect detection from stereo remote underwater videos using distance sampling.\nObtaining bias-adjusted length frequency distributions from fish in stereo remote underwater videos using distance sampling.\n\nFor a full list of my published research, please refer to the Publications tab."
+  },
+  {
+    "objectID": "research.html#research-profile",
+    "href": "research.html#research-profile",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on:\n\nMethods to improve the way in which ecologists analyse remote underwater videos to sample fish assemblages using distance sampling and AI object detection algorithms.\nPower analysis procedure for multivariate ecology data to answer study design questions.\nApplied computational statistics and machine learning research in collaboration with other research partners from ecology, medicine, pharmacology, public health and genomics.\n\nI am currently working on:\n\nAnalysing the statistical properties of methods used to analyse remote underwater videos using AI object detection algorithms and Monte Carlo Markov Chain simulations.\nDevelop a novel method for estimating abundance whilst accounting for imperfect detection from stereo remote underwater videos using distance sampling.\nObtaining bias-adjusted length frequency distributions from fish in stereo remote underwater videos using distance sampling.\n\nFor a full list of my published research, please refer to the Publications tab."
+  },
+  {
+    "objectID": "research.html#publications-of-interest",
+    "href": "research.html#publications-of-interest",
+    "title": "Research",
+    "section": "Publications of interest",
+    "text": "Publications of interest\n\nHow many sites? Methods to assist design decisions when collecting multivariate data in ecology\n\n\nMaslen, B., Popovic, G., Lim, M., Marzinelli, E., & Warton, D. (2023)\nThis paper develops a power-analysis framework for deciding how many sites are needed when collecting multivariate ecological abundance data. The approach uses a Gaussian copula model with factor-analytic structure, a realistic effect-size formulation and a computationally efficient critical-value method. The associated methods are implemented in the ecopower R package which is openly accessible from CRAN and has been downloaded 14,429 times to date.\nRead the paper · ecopower\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe motion picture: leveraging movement to enhance AI object detection in ecology\n\n\nMaslen, B., Popovic, G., Wang, D., Jansen, A., & Warton, D. (2025)\nThis study evaluates whether movement information can improve automated object detection in ecological imagery. Across four datasets containing more than 35,000 annotated images from marine, freshwater and terrestrial habitats, the study compares frame differencing, background subtraction, optical flow and multi-object tracking. Movement-based methods were most useful for smaller studies and rarer species, while simple frame differencing generally performed best among the movement-based approaches.\nRead the paper · Code · Benchmark data"
+  },
+  {
+    "objectID": "research.html#supervision",
+    "href": "research.html#supervision",
+    "title": "Research",
+    "section": "Supervision",
+    "text": "Supervision\nI am not currently supervising any research students, however, if you are interested in my research and are looking for a supervisor, feel free to get in touch, I have plenty of ideas for future research projects.\n\nPast supervision\nSchool of Mathematics and Statistics, UNSW (2026) – Supervisor for two groups of Masters students taking the Data Science and Decisions Project course (DATA5925 & MATH5925), guiding students to independently research and analyse a VISA tribunal outcomes dataset, tackling real world data science problems.\nStats Central, UNSW (2018-2019, 2021-2026) – I have met and helped with the supervision of over 180 honours and postgraduate research students, guiding them through the experimental design and analysis phase of their research projects in collaboration with their academic supervisors."
+  },
+  {
+    "objectID": "research.html#collaboration",
+    "href": "research.html#collaboration",
+    "title": "Research",
+    "section": "Collaboration",
+    "text": "Collaboration\nI welcome conversations about interdisciplinary research involving statistical design, data science, modelling, prediction, uncertainty quantification or reproducible analysis, particularly with applications in ecology. Feel free to get in touch if you are interested in collaborating on a research project."
+  }
+]

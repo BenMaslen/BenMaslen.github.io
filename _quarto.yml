@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr Ben Maslen"
+  description: "Personal academic website of Ben Maslen, a statistics lecturer and researcher."
+  site-url: "https://BenMaslen.github.io"
+  navbar:
+    background: "#17324d"
+    foreground: "white"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: presentations.qmd
+        text: Presentations
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: google
+        href: https://scholar.google.com/citations?user=YyoWad8AAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/BenMaslen
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/benjmaslen
+        aria-label: LinkedIn
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-footer:
+      left: "© 2026 Ben Maslen"
+      right: "Built with Quarto"
+
+editor: visual

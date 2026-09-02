@@ -1,0 +1,17 @@
+{
+  "hash": "099dc97806b5240faab600da04cfbfd0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Publications\"\nbibliography: references.bib\ncsl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl\nlink-citations: true\nnocite: |\n  @*\n---\n\nMy research combines statistical methodology and machine learning with applications in ecology and environmental science.\n\n## Selected publications\n\n### How many sites? Methods to assist design decisions when collecting multivariate data in ecology\n\n\n\nMaslen et al. (2023) [@maslen2023many]\n\nThis paper develops a power-analysis framework for deciding how many sites are needed when collecting multivariate ecological abundance data. The approach uses a Gaussian copula model with factor-analytic structure, a realistic effect-size formulation and a computationally efficient critical-value method. The associated methods are implemented in the [`ecopower`](https://cran.r-project.org/package=ecopower) R package which is openly accessible from CRAN and has been downloaded 14,429 times to date.\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](power_img.jpg){fig-align='center' width=50%}\n:::\n:::\n\n\n[Read the paper](https://doi.org/10.1111/2041-210X.14094) · [ecopower](https://cran.r-project.org/package=ecopower)\n\n\n### The motion picture: leveraging movement to enhance AI object detection in ecology\n\nMaslen et al. (2025) [@maslen2025motion]\n\nThis study evaluates whether movement information can improve automated object detection in ecological imagery. Across four datasets containing more than 35,000 annotated images from marine, freshwater and terrestrial habitats, the study compares frame differencing, background subtraction, optical flow and multi-object tracking. Movement-based methods were most useful for smaller studies and rarer species, while simple frame differencing generally performed best among the movement-based approaches.\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](movement.jpg){fig-align='center' width=40%}\n:::\n:::\n\n\n[Read the paper](https://doi.org/10.1002/ece3.71996) · [Code](https://github.com/BenMaslen/MCD) · [Benchmark data](https://doi.org/10.5061/dryad.sbcc2frf7)\n\n## Complete publication list\n\n\n::: {#refs}\n:::\n",
+    "supporting": [
+      "publications_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

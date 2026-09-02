@@ -1,0 +1,28 @@
+---
+title: "Publications"
+---
+
+## Selected publications
+
+Below are selected publications. Replace these examples with your own outputs and link each title to the publisher, preprint, code repository or dataset.
+
+### Article title goes here
+
+**Your Name**, Coauthor A, Coauthor B (2026). *Article title goes here*. **Journal Name**, volume, article number. \[Paper\] · \[Code\]
+
+One sentence explaining the contribution or importance of the paper in accessible language.
+
+### Another article title goes here
+
+Coauthor A, **Your Name**, Coauthor B (2025). *Another article title goes here*. **Journal Name**, volume, pages. \[Paper\]
+
+One sentence explaining the contribution or importance of the paper.
+
+## Software and data
+
+- **Package or software name** — short description and link to repository or documentation.
+- **Dataset or resource name** — short description and link, where appropriate.
+
+## Full publication list
+
+For a complete and automatically formatted publication list, you can later replace this page with a BibTeX-based Quarto bibliography. In the meantime, a manually maintained list is perfectly acceptable and often easier to check.

@@ -1,0 +1,145 @@
+/* Small customisation layer for a clean academic appearance. */
+
+:root {
+  --academic-blue: #17324d;
+  --academic-teal: #2a7f8e;
+  --academic-light: #f4f7f8;
+}
+
+body {
+  color: #263238;
+}
+
+.navbar {
+  font-weight: 500;
+}
+
+h1, h2, h3 {
+  color: var(--academic-blue);
+}
+
+a {
+  color: var(--academic-teal);
+}
+
+.about-entity {
+  margin-top: 1rem;
+}
+
+table {
+  border-color: #d9e2e5;
+}
+
+blockquote {
+  border-left-color: var(--academic-teal);
+}
+
+/* APA-style publications displayed as bullet points */
+
+#refs .csl-entry {
+  display: list-item;
+  list-style-type: disc;
+  margin-bottom: 0.2rem;
+  padding-left: 1.6rem;
+}
+
+
+/* Ecology-inspired colour palette */
+:root {
+  --forest-green: #285943;
+  --leaf-green: #4f8b5c;
+  --sage: #e5f0e5;
+  --cream: #fbfaf5;
+  --ink: #26332c;
+  --gold: #c9a227;
+}
+
+/* Page background and text */
+body {
+  background-color: var(--cream);
+  color: var(--ink);
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: var(--forest-green) !important;
+}
+
+.navbar-brand::before {
+  content: "🌿";
+  margin-right: 0.4rem;
+}
+
+.navbar-brand,
+.navbar .nav-link {
+  color: white !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: #d7efd9 !important;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+  color: var(--forest-green);
+}
+
+
+
+/* Links */
+a {
+  color: #2d7652;
+}
+
+a:hover {
+  color: #1f5139;
+}
+
+/* Title area */
+#title-block-header {
+  padding: 3rem 0 2rem;
+  border-bottom: 3px solid var(--sage);
+}
+
+.title {
+  color: var(--forest-green);
+}
+
+/* Callout boxes and cards */
+.callout,
+.card {
+  border-radius: 0.75rem;
+}
+
+.callout {
+  border-left-color: var(--leaf-green);
+}
+
+.callout-note {
+  background-color: var(--sage);
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--leaf-green);
+  border-color: var(--leaf-green);
+}
+
+.btn-primary:hover {
+  background-color: var(--forest-green);
+  border-color: var(--forest-green);
+}
+
+/* Footer */
+.nav-footer {
+  background-color: var(--forest-green);
+  color: white;
+}
+
+.nav-footer a {
+  color: #d7efd9;
+}
+

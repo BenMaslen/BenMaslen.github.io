@@ -1,0 +1,31 @@
+{
+    "id": "8A3324CD",
+    "path": "~/Ben_Maslen_Website/publications.qmd",
+    "project_path": "publications.qmd",
+    "type": "quarto_markdown",
+    "hash": "3069914959",
+    "contents": "",
+    "dirty": false,
+    "created": 1788311542154.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "9,0",
+        "scrollLine": "4",
+        "rmdVisualModeLocation": "969:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1788331729,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1788331729100,
+    "read_only": false,
+    "read_only_alternatives": []
+}

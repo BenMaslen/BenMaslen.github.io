@@ -1,0 +1,619 @@
+---
+title: "Lecturer Day-To-Day Tasks MATH1041"
+output:
+  html_document:
+    toc: true
+    theme: lumen
+  pdf_document:
+    toc: true
+    theme: lumen
+---
+
+Note: This file also includes tutorial-related tasks as the Lecturer usually has some.
+
+[Every morning, check:]{style="background-color:#ffcb2e;"}
+
+- [ ] the forums to answer all questions. (The more questions you answer, the
+      more every student will feel personally taken care of. This increases
+      their motivation, and also your final myExperience survey scores!)
+      Answer: General STATS/lecture/classroom tutorials help FORUM, Larraine will do the others
+- [ ] the Teams channels
+- [ ] the question on Echo360 for the past lectures
+- [ ] your MATH1041 emails
+- [ ] your Outlook calendar
+
+
+- [ ] Create a file that contains the links of all PollEverywhere and Kahoot games, organised by Week and Lecture. Store this file on the Lectern PC.
+
+MISSING STUFF TO ADD SOMEWHERE BELOW:
+
+[Yesterday 17:24] Yudhi Bunjamin
+I should have said this before the labs in week 1 but I only remembered now. We should make sure that all of the students who come to lab try to log into the machine in the lab (in Linux) so that they know how to log in for their lab test and exam. This is especially for the students who use their own laptop in the lab which is fine but I usually still ask them to try and log in to the computer that's there. Maybe we should add this to the Week 2 lab instructions?
+[Yesterday 17:25] Yudhi Bunjamin
+So the students should (1) try to log in to the machine in linux (and make sure they are able to log in), (2) know how to open RStudio on Linux, (3) know how to log out of the machine. If they have login issues they should get it fixed with IT before their Week 4 test
+
+
+Faire une liste des fonctions R utilisées dans l'assignment et discuter toutes ces fonctions dans les lectures avant
+Improve/complete the "R commands" document on Moodle (make sure all the commands needed for all lectures and assignments are explained, and maybe organised by chapter
+Complete the entry "Videos mentioned in the lecture slides" in Moodle
+There is A LOT of information in Moodle, so I need to regularly tell students what to read/do
+Do not forget to show students when some tools do not work well (if underlying assumptions are not satisfied) to make it clear that they need to understand, rather than memorise
+I have several polls in Moodle
+Interesting stuff on Moodle in "Revisions for Lab tests and exam: All-slides-in-one-pdf, mind-map, decision tree, formula sheet"
+Voir aussi la section "Revision Materials"
+
+
+
+
+-   when to transfer grades from one tool to the other
+-   when to start working on the final exam
+-   when and how to contact markers for the assignment
+-   mark moderation
+-   mark meeting
+-   supplementary exam
+-   competency test for students on 40-49
+
+## WEEK -1
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+- Monday 03-02-2025
+  - [X] Modify all dates in the file below to be consistent with the
+  	current term
+  - [X] Also, your lectures and tutorials might be on a different day this term, so
+        you can reorder things for every week below accordingly
+  - [X] Make sure you have access to the Moodle Page for the term (otherwise, ask
+        Hilda) and Star the course.
+        <https://moodle.telt.unsw.edu.au/course/view.php?id=87795>
+  - [X] Create an entry under your Inbox folder in Outlook entitled
+        "MATH10412025T1" with the following subfolders: 
+        - [X] Assignment 
+        - [X] DoFY 
+        - [X] ECOS 
+        - [X] ELP-ELS 
+        - [X] EmailFromToStudents 
+        - [X] Lecturer 
+        - [X] SpecialConsiderations 
+        - [X] Tutors
+  - [X] Make sure every email related to MATH1041 goes automatically in that
+        folder. For this, click on the wheel (top right), then Mail; Rules;
+	+ Add new rule or modify existing ones ((1) Subject or body contains
+	1041: Condition=Subject or body includes 1041; Action=Move to
+	MATH10412025T1 (2) Move all messages from els@unsw.edu.au to ELS-ELP:
+        Condition=From PVC Equitable Learning Services; Action=Move to ELP-ELS)
+  - [X] Add bookmarks of important pages in your browser
+        - [X] Moodle <https://moodle.telt.unsw.edu.au/course/view.php?id=87795>
+        - [X] Mobius class <https://unsw.mobius.cloud/2135>
+        - [X] Class Collaborate <https://moodle.telt.unsw.edu.au/mod/lti/view.php?id=7339016>
+  - [X] Update the new Moodle page (some of this update has already been taken
+        care of by the CC, but always good to double check everything):
+        <https://moodle.telt.unsw.edu.au/course/view.php?id=87795>
+        - [X] check all the links on the whole Moodle page
+        - [X] Replace, if needed, every occurence of the formula sheet on Moodle with the
+              last version (i.e, we'll use only one version now) and change also in the tutorial booklet
+        - [X] make sure things that need to be hidden really are before making
+	      page visible to students
+        \# Top icons (from left-to-right and top-to-bottom)
+        - [X] Course Outline (check it, it might only appear in Week 0
+              when ECOS has gone through)
+	- [X] Online Tutorials
+	      (check that the link points to the correct page for the year/term and
+	      term; also check that things are consistent with what is displayed
+	      at <https://timetable.unsw.edu.au/2025/MATH1041.html>)
+	\# Right block drawer
+        - [X] Add a photograph of your face to the right panel of Moodle
+             (Click on "Open block drawer" middle-right; click on "Edit mode"
+	     top-right; Click on the wheel to configure text block.)\
+        \# General Course Resources Hub
+        - [X] Record a new video for Chapter 0 Lecture 2 slides (if
+              needed)
+        - [X] update Chapter 0 Lecture 2 slides (verify all URL
+              links!)
+        - [X] put the link to the video of Chapter 0 Lecture 2, call
+              it "Welcome video (Lecturer)"
+        - [X] upload Chapter 0 Lecture 2 slides on Moodle, name it:
+              MATH1041-2025T1-chap0_lec2_Lecturer.pdf
+        - [X] unhide Welcome video (Lecturer)
+        - [X] unhide Chap_0_Lec2_Lecturer
+        - [X] configure then unhide Elevator/Lift Data Prize (check dates)
+        - [X] configure then unhide An anonymous survey about you (check dates)
+	\# Assessment Hub
+	- [X] Summary of Assessments Tasks will be loaded by the Faculty TELT
+	      team directly from ECOS (course outline) closer to O-week. Check.
+	\# Lectures
+	- [X] upload the file (and link) for "Introduction to Statistics" in the "Lecture slides" entry
+	- [X] Add these three files in the "Lecture slides (file folder)", keep it hidden.
+	       MATH1041_2025_T1_Table_of_content.pdf
+	       MATH1041-2025T1-chap0_lec1_CourseConvenor.pdf
+	       MATH1041-2025T1-chap0_lec2_Lecturer.pdf
+	\# Tutorials
+	- [X] update file "MATH1041 Classroom Tutorial booklet 2025-T1" then unhide
+	      (this is the file MATH1041_Tute_Booklet_Student_2025-T1_w_formula_sheet.pdf)
+        - [X] check "MATH1041 Online Tutorial Streaming" (should
+              already be done for the BBC icon)
+        - [X] update Link to UNSW Timetable for MATH1041 2025 T1
+
+</details>
+
+## WEEK 0
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+- Sunday 09-02-2025
+  - [X] Make Moodle page visible to students since O-week starts tomorrow
+- Monday 10-02-2025
+  - [X] make Week 0 announcement "Welcome to MATH1041"
+- Tuesday 11-02-2025
+  - [X] Hilda sent an email to choose the dates for the two 1h slots for consultation hours
+- Wednesday 12-02-2025
+- Thursday 13-02-2025
+  - [X] go check my lecture theater before my first lecture
+- Friday 14-02-2025
+
+</details>
+
+## WEEK 1
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 16-02-2025
+    -   [X] Buy TimTam biscuits for the Lift prize
+    -   [x] Build and release Chapter 1 Students' lecture slides on Moodle
+            MATH1041_2025_T1_Chapter_1_Lec_1-2_students.pdf
+	    MATH1041_2025_T1_Chapter_1_Lec_3-4_students.pdf 
+    -   [X] Build Chapter 1 Lecturer's lecture slides into file MATH1041_2025_T1_Chapter_1_all_Lecturer_raw.pdf; print them 4 slides per page
+-   Monday 17-02-2025
+    -   [X] send students an announcement reminding them to read the content of the one I sent last week
+            and most importantly to arrive in the lectures with an account on Posit in the cloud
+    -   [X] update lectures_organization-2025T1.md; print if changed
+    -   [X] Lift data survey closes at 12 AM. Check who is the winner. And update the file liftdata.Rmd
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say, and complete the Note Slides if necessary
+        -   [X] see top of file sec01-1.Rmd
+        -   [X] see Note Slides within the Rmd files of the lectures
+-   Tuesday 18-02-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Check how many students self-enrolled in Mobius. Remind them during the lecture.
+    -   [X] Lectures 1 & 2 (9--11 am)
+-   Wednesday 19-02-2025
+    -   [X] Read the "Reactions to the first lecture" on Moodle and respond to all students a nice thing
+    -   [X] update lectures_organization-2025T1.md and print them
+    -   [X] see Note Slides within the Rmd files and also any content at the top of the file itself
+    -   [X] read textbook
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say
+-   Thursday 20-02-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 3 & 4 (9--11 am)
+    -   [X] Release Chapter 1 Lecturer lecture slides on Moodle
+            MATH1041_2025_T1_Chapter_1_all_Lecturer_annotated.pdf
+	    MATH1041_2025_T1_Chapter_1_all_Lecturer_raw.pdf 
+-   Friday 21-02-2025
+
+</details>
+
+## WEEK 2
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 23-02-2025
+    -   [X] Look at the survey results on Moodle; Use them to update the lecture slides (Not done this time since bug on Moodle to download the file, only corrected in Week 8)
+    -   [X] Release Chapter 2 Students lecture slides on Moodle
+    -   [X] Build Chapter 2 Lecturer lecture slides; print them 4 slides per page    
+-   Monday 24-02-2025
+    -   [X] update lectures_organization-2024T1.md; print if changed
+    -   [X] see Note Slides within the Rmd files of the lectures
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say
+            (complement Note Slides if necessary)
+-   Tuesday 25-02-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 1 & 2 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+    -   [X] Start working on the assignment
+-   Wednesday 26-02-2025
+    -   [X] update lectures_organization-2025T1.md and print them
+    -   [X] see Note Slides within the Rmd files and also any content at the top of the file itself
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say
+-   Thursday 27-02-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 3 & 4 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+    -   [X] Release Chapter 2 Lecturer lecture slides on Moodle
+-   Friday 28-02-2025
+
+</details>
+
+## WEEK 3
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 02-03-2025
+    -   [X] Release Chapter 3 Students lecture slides on Moodle
+    -   [X] Build Chapter 3 Lecturer lecture slides; print them 4 slides per page    
+-   Monday 03-03-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] unhide "MATH1041 Formula Sheet" on Moodle
+    -   [X] make Week 3 first announcement, if any
+    -   [X] see Note Slides within the Rmd files of the lectures
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to
+            say (complement Note Slides if necessary)
+    -   [ ] Start working on the final exam. Need to create two new questions
+            (both worth 10 marks). (See: https://unsw.sharepoint.com/:w:/r/sites/MathsStatsE-exams-MATH10412021-T2/Shared%20Documents/MATH1041%202021-T2/2024/End%20of%20term%20Exam%202024-T2/MATH1041%20exam%20discussion%202024-T2.docx?d=we100b61065f64713920ebe66be3bac13&csf=1&web=1&e=VxopGB).
+	    Need to create a second version of each of the new exam questions.
+-   Tuesday 04-03-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 1 & 2 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+-   Wednesday 05-03-2025
+    -   [x] update lectures_organization-2025T1.md
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things
+            to say (complement Note Slides if necessary)
+   Thursday 06-03-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 3 & 4 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+    -   [X] Release Chapter 3 Lecturer lecture slides on Moodle
+    -   [X] Add link to "Lecturer's version of Chapters 1 to 3 together."
+-   Friday 07-03-2025
+
+</details>
+
+
+
+## WEEK 4
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 09-03-2025
+    -   [X] Release Chapter 4 Students lecture slides on Moodle
+    -   [X] Build Chapter 4 Lecturer lecture slides; print them 4 slides per page    
+-   Monday 10-03-2025
+    -   [X] make Week 4 announcement, if necessary
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Tuesday 11-03-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 1 & 2 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+-   Wednesday 12-03-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Thursday 13-03-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 3 & 4 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+    -   [X] Release Chapter 4 Lecturer lecture slides on Moodle
+-   Friday 14-03-2025
+
+</details>
+
+## WEEK 5
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 16-03-2025
+    -   [X] Release Chapter 5 Students lecture slides on Moodle
+    -   [X] Build Chapter 5 Lecturer lecture slides; print them 4 slides per page    
+    -   [X] Keep working on the assignment
+-   Monday 17-03-2025
+    -   [X] update lectures_organization-2025T1.md if needed
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Tuesday 18-03-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 1 & 2 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+-   Wednesday 19-03-2025
+    -   [X] update lectures_organization-2025T1.md if needed
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Thursday 20-03-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 3 & 4 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+    -   [X] Release Chapter 5 Lecturer lecture slides on Moodle
+-   Friday 21-03-2025
+
+</details>
+
+## WEEK 6
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 23-03-2025
+    -   [X] Keep working on the assignment
+-   Monday 24-03-2025
+-   Tuesday 25-03-2025
+-   Wednesday 26-03-2025
+-   Thursday 27-03-2025
+-   Friday 28-03-2025
+    -   [X] make an announcement to tell students that Chapters 5 and 6 are the most difficult ones of the whole course and that students are strongly advised to come to the next lecture
+
+</details>
+
+## WEEK 7
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+
+-   Sunday 30-03-2025
+    -   [X] Release Chapter 6 Students lecture slides on Moodle
+    -   [X] Build Chapter 6 Lecturer lecture slides; print them 4 slides per page    
+    -   [X] Keep working on the assignment
+-   Monday 31-03-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] annotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Tuesday 01-04-2025
+    -   [X] Charge my tablet and phone
+    -   [X] send the assignments to all students (ask help if you don't know how to do that) using either PowerAutomate or my Linux tool with Davmail/Mutt etc.
+    -   [X] Lectures 1 & 2 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+-   Wednesday 02-04-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] annotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Thursday 03-04-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 3 & 4 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+    -   [X] Release Chapter 6 Lecturer lecture slides on Moodle
+    -   [X] update file "MATH1041_2025_T1_Chapter_1_to_6_all_Lecturer_for_Assignment.pdf" then unhide "Lecture slides, Chapter 1--6" on Moodle
+-   Friday 04-04-202
+
+</details>
+
+## WEEK 8
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 06-04-2025
+    -   [X] Release Chapter 7 Students lecture slides on Moodle
+    -   [X] Build Chapter 7 Lecturer lecture slides; print them 4 slides per page    
+    -   [X] Start working on the final exam
+-   Monday 07-04-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] annotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+    -   [X] make Week announcements
+-   Tuesday 08-04-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 1 & 2 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+-   Wednesday 09-04-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] annotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Thursday 10-04-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 3 & 4 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+    -   [X] Release Chapter 7 Lecturer lecture slides on Moodle
+-   Friday 11-04-2025
+
+</details>
+
+## WEEK 9
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 13-04-2025
+    -   [X] Release Chapter 8 Students lecture slides on Moodle
+    -   [X] Build Chapter 8 Lecturer lecture slides; print them 4 slides per page    
+    -   [X] Start working on the final exam
+-   Monday 14-04-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Tuesday 15-04-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 1 & 2 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+-   Wednesday 16-04-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Thursday 17-04-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 3 & 4 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+    -   [X] Release Chapter 8 Lecturer lecture slides on Moodle
+    -   [X] Release Lecturer's version of Chapters 1 to 8 together.
+-   Friday 18-04-2025
+
+</details>
+
+## WEEK 10
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 20-04-2025
+    -   [X] Release Chapter 9 Students lecture slides on Moodle
+    -   [X] Build Chapter 9 Lecturer lecture slides; print them 4 slides per page
+    -   [X] upload all the PDF of the lecture slides (and the formula sheet for the final) in "Lecture slides (file folder)" on Moodle. Keep it hidden for now.
+    -   [X] upload the PDF file for "Updated final exam formula sheet" on Moodle. Keep it hidden for now.   
+    -   [X] Start working on the final exam
+-   Monday 21-04-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+-   Tuesday 22-04-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 1 & 2 (9--11 pm)
+    -   [X] Office consultation (11:00--12:00 pm)
+-   Wednesday 23-04-2025
+    -   [X] update lectures_organization-2025T1.md
+    -   [X] anotate my 4x4 printed pages using my red pen to remind me of things to say (complement Note Slides if necessary)
+    -   [X] Remind students to fill-in the survey using an announcement
+-   Thursday 24-04-2025
+    -   [X] Charge my tablet and phone
+    -   [X] Lectures 3 & 4 (9--11 am)
+    -   [X] Office consultation (11:00--12:00 pm)
+    -   [ ] Release Chapter 9 Lecturer lecture slides on Moodle
+-   Friday 25-04-2025
+
+</details>
+
+## WEEK 11
+
+<details>
+
+<summary>Hide/Show Content</summary>
+
+-   Sunday 27-04-2025
+    -   [ ] Create the final exam
+-   Monday 28-04-2025
+-   Tuesday 29-04-2025
+    -   [ ] Office consultation (11:00--12:00 pm)
+-   Wednesday 30-04-2025
+    -   [ ] Announcement that the myExperience survey closes tomorrow. Last chance.
+-   Thursday 01-05-2025
+    -   [ ] Office consultation (11:00--12:00 pm)
+-   Friday 02-05-2025
+
+
+WORK ON THE FINAL EXAM!!
+
+[ ] Marking scheme to write and store in folder MATH1041/2025T1/Lecturer/Exams/MarkingScheme/
+See past files in Teams: MathsStats FY Marking ; MATH1041 Exam ; Files
+    2025 T1 Study Design: Nutritious Breakfast (similar to: 2022 T1 in Wk1_Ch1, last one for this topic)
+    2025 T1 Statistical Inference Confidence Interval Light University (similar to:  2020 T3 Ch5. CI one sample change C, n, xbar)
+    2025 T1 New South Wales plants and climate change (similar to:  2024 T1 Ch6. Growing cherry tomatoes) 
+
+
+[ ] Incorporate all modifications to all slides
+[ ] Put the slides on RStudio in the cloud for the next lecturer
+[ ] Put Laure's past assignment 2022 T2 in RStudio too for Bill
+
+[ ] Update link with full lecture slides in Moodle (see Bill's email)
+
+Check previous announcements in last term
+
+[ ] Send an email to Hilda about the hours of the markers for assigment
+
+[ ] Send an email to Hilda about the hours of the markers for final exam
+
+[ ] Make Final Exams visible Thursday morning at 8 am
+    Suggest make the morning only visible then after that ends the other visible for both ELP and non-ELP.
+
+MATH1041 is the only first year course that withhold the marks until the end of the week. Why not just let the students see their marks at the end of their test?
+In the other first year courses we tick a box to block students opening the practice tests from the lab during a test.  I'm not sure if that is done in MATH1041.
+
+
+[ ] arrange SC Lab Test 2 with Kevin and Dominic for O-Week for T2. 
+[ ] competency test in O-week T2
+
+[ ] Moodle. Manually deduct 1 mark (5% of 20) for each day late from Assignment Total. See Yudhi's     emails about how to penalise lateness for the assignment.
+
+    Click on any MATH1041 Assignment Turnitin thing in Moodle, then Export to Excel
+ 
+    https://unsw.sharepoint.com/:x:/r/sites/FirstYearLecturersSOM-FYcourseauthorities/Shared%20Documents/FY%20course%20authorities/2024/T1/MATH1041/Assignment/MATH1041_2024_T1_Assignment_Submission_Times.xlsx?d=wec726d068ab447e989124b9c463499e9&csf=1&web=1&e=iCajKl
+
+    Go to Moodle, Grades and modify the grades for the assignment (needs to be in Edit mode, click on 5000 Items per page, and click on Override for each student for which the mark needs to be changed)
+    Add a comment such as "Penalty x days late"
+    Do not forget to click Save at the bottom
+
+see files 154672668_MATH1041_Assignment_Late_Penalties_2024_08_13.xlsx and assignment-MATH1041T22024-SpecialConsiderations.xlsx
+
+
+[ ] Make announcement about applied late penalties assignment. See 2023 T3 for template.
+
+[ ] See my emails
+
+[ ] Ask Jeffrey Kwan to validate my exam (he should send me back the R code he will write)
+
+Special Considerations: (I asked Kevin to contact these 3 students)
+ 5206200 Stephanie Tizzone Lab Test 2
+ 5583383 Meera Qachi Lab Test 2  She contacted me
+ 5583643 Anja Krha Lab Test 2
+
+[ ] 5482580 Abby Wilson  Weekly Möbius Lessons - week 9 (max 14 days extension) She contacted me and I gave her until Monday 6th May 8 pm
+[ ] 5448108 Ann Nolan Weekly Möbius Lessons- week 10 Gave her until 03/05 11:59 pm
+
+
+
+[ ] Work on files "MATH1041 exam discussion 2024-T1" and "MATH1041 exam tracking 2024-T1" in Teams channel Maths & Stats E-exams. Start with the "Marks Breakdown" tab, and then the "By session plan"
+
+[ ] Enroll students to Mobius for final exam
+
+[ ] competency tests (create thing on Mobius) + supp exam on Mobius
+
+###
+
+[ ] ELP students what days exactly? 9th of May
+Tests the exams in MATH1041 Exam 2024 T1 (testing) https://unsw.mobius.cloud/1911
+[ ] Add Jeffrey to Teams channel Maths & Stats E-exams
+[ ] Update column C and H of Tab "By session plan" https://unsw.sharepoint.com/:x:/r/sites/MathsStatsE-exams-MATH10412021-T2/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7Bb2c366bd-3c15-4cf9-9d79-2b26a7193474%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1
+[ ] Who are the 2 markers, and eventually add them to the Excel file and to Mobius (the Marking one)
+[ ] Marking scheme to update in folder MATH1041/2025T1/Lecturer/Exams/MarkingScheme/
+
+
+https://unsw.sharepoint.com/:x:/r/sites/MathsStatsMid-termTestInvigilation-ELPInvigilators/_layouts/15/Doc.aspx?sourcedoc=%7B52242AEC-AD1A-48DC-86FF-2A125AD3255D%7D&file=Final%20Exam%202024%20T1%20ELS%20Roll.xlsx&action=default&mobileredirect=true
+
+
+There is an issue in the marking algorithm of Week 8, Chapter 8, Q3 (9) and Q4 (c). (For Q3 (9), if you use 1-pbinom() or pbinom(lower.tail=TRUE) or sum(dnorm(x:n, n, p0)) you don't get it marked correct sometimes, though it should be.) ) (For Q4 (c), try 83%, n=67 and x=27.) I don't have time to check these now.
+
+MATH1041 Exam Material Repository
+
+
+Create supp exam
+[ ] left remove and replace with political affiliation + simulation
+https://unsw.sharepoint.com/:x:/r/sites/MathsStatsE-exams-MATH10412021-T2/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7Bb2c366bd-3c15-4cf9-9d79-2b26a7193474%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1
+
+
+Dates for competency test, see Kevin:
+ The supplementary exam will be 24 May, 10am start in G012.
+
+
+
+roster file for SC students
+
+[ ] Lectures RStudio
+
+[ ] Enterprise Course Outline System ECOS (https://ecos.unsw.edu.au/ecos_review?course_key=6804) and Preview: https://ecos.unsw.edu.au/preview?id=6804
+
+
+[ ] Contact Suzie
+ Switch to Cloud Basic
+ Questions? 
+ $25 / month + tax + coverage fees
+
+WML classes on Mobius Term 2
+
+[ ] Email send to all students about the Supp Exam date time and location via Outlook
+[ ] Email send to all students (by Bill) about the Competency test date time and location via Outlook
+
+[ ] Samuel Atkinson discuss Kevin for competency test because ELP
+Hi Pierre. Earlier I allocated Samuel a session on Friday 24/05, 10:00am in M029. I think Hilda already emailed Samuel or will email Samuel tomorrow about this arrangement.
+
+
+
+
+The supplementary exam will be 24 May, 10am start in G012
+[ ] send email to the students who will take it
+[ ] add them to Mobius
+
+Supplementary Lab Test 2:
+[ ] send them an email with the booking page: https://moodle.telt.unsw.edu.au/mod/choice/view.php?id=6765952
+[ ] make sure the test is available to them next week until the last time on the booking form
+
+
+I (JK) have made a booking page for the students with 45 to 49 tests in other courses but included the possibility of them using this booking system for the MATH1041 competency test.  I think that would be your simplest option.   https://moodle.telt.unsw.edu.au/course/view.php?id=82672   
+Bill sent an email about this
+
+
+
+</details>
