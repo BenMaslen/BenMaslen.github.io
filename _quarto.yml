@@ -5,7 +5,10 @@ project:
 website:
   title: "Dr Ben Maslen"
   description: "Personal academic website of Ben Maslen, a statistics lecturer and researcher."
+  google-analytics: "G-0R53RPE2TX"
   site-url: "https://BenMaslen.github.io"
+  open-graph: true
+  twitter-card: true
   navbar:
     background: "#17324d"
     foreground: "white"
