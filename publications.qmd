@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications | Ben Maslen"
 bibliography: references.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 link-citations: true

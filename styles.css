@@ -87,7 +87,11 @@ h3 {
   color: var(--forest-green);
 }
 
-
+h1::before {
+  content: "🍃";
+  font-size: 0.75em;
+  margin-right: 0.35em;
+}
 
 /* Links */
 a {

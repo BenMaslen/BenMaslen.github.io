@@ -1,5 +1,5 @@
 ---
-title: "Presentations"
+title: "Presentations | Ben Maslen"
 ---
 
 ## Conference presentations
@@ -9,6 +9,7 @@ title: "Presentations"
 #| fig-align: left
 knitr::include_graphics("talk_image.jpeg")
 ```
+
 ### Invited Speaker
 
 - **Australian Statistical Conference**, Perth, Australia, 2025
@@ -32,8 +33,7 @@ knitr::include_graphics("talk_image.jpeg")
 
 **A SHAP in the Dark: Interpretable machine learning through SHAP values**, Monthly Seminar, UNSW Stats Central, 2026
 
-::: {.columns}
-
+:::::: columns
 ::: {.column width="40%"}
 ```{r, echo=FALSE}
 #| out-width: "100%"
@@ -52,13 +52,11 @@ Although machine learning algorithms perform well at prediction tasks, with larg
 
 [View Slides](https://d2xnkjysn6lg7q.cloudfront.net/files/unswPDF/1776923505725-statscental_seminar_slides_bm_16april2026.pdf) [View Recording](https://www.youtube.com/watch?v=bbPTcID6uY8)
 :::
-
-:::
+::::::
 
 **Wiggly Worries: What to Do When Your Data Isn't Linear,** Monthly Seminar, UNSW Stats Central, 2025
 
-::: {.columns}
-
+:::::: columns
 ::: {.column width="40%"}
 ```{r, echo=FALSE}
 #| out-width: "100%"
@@ -77,7 +75,4 @@ What happens when your data doesn't play nice and the linearity assumption of tr
 
 [View Recording](https://www.youtube.com/watch?v=QVWb2GXHAvg)
 :::
-
-:::
-
-
+::::::

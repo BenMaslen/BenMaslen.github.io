@@ -44,14 +44,17 @@ Before becoming a Lecturer, I worked for more than six years as a Statistical Co
 ## Selected links
 
 |  |  |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | [**Research**](research.qmd) | Explore my current research, highlighted publications, supervision and collaboration details. |
 | [**Teaching**](teaching.qmd) | Find information about my teaching experience |
 | <span style="white-space: nowrap;"> [**Presentations**](presentations.qmd) | Find information about my conference presentations and recorded technical seminars. |
 | <span style="white-space: nowrap;"> [**Publications**](publications.qmd) | Browse research outputs and links to papers and code. |
 | [**CV**](cv.qmd) | Download my current curriculum vitae and find details about my education, research funding and awards, academic service, professional memberships and industry experience. |
 
+```{=html}
 <!--
 ## News
 
 **\[Month Year\]** — Add a short item about a new publication, conference presentation, grant or teaching initiative.-->
+```
+:::

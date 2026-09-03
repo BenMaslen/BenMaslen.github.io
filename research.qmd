@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research | Ben Maslen"
 ---
 
 ## Research profile
@@ -13,7 +13,7 @@ My research focuses on:
 I am currently working on:
 
 - Analysing the statistical properties of methods used to analyse remote underwater videos using AI object detection algorithms and Monte Carlo Markov Chain simulations.
-- Develop a novel method for estimating abundance whilst accounting for imperfect detection from stereo remote underwater videos using distance sampling.
+- Developing a novel method for estimating abundance whilst accounting for imperfect detection from stereo remote underwater videos using distance sampling.
 - Obtaining bias-adjusted length frequency distributions from fish in stereo remote underwater videos using distance sampling.
 
 For a full list of my published research, please refer to the [**Publications**](publications.qmd) tab.
@@ -34,10 +34,7 @@ ecopower_downloads <- cranlogs::cran_downloads(
   sum()
 ```
 
-
-
-::: {.columns}
-
+:::::: columns
 ::: {.column width="58%"}
 Maslen, B., Popovic, G., Lim, M., Marzinelli, E., & Warton, D. (2023)
 
@@ -47,7 +44,6 @@ This paper develops a power-analysis framework for deciding how many sites are n
 :::
 
 ::: {.column width="2%"}
-
 :::
 
 ::: {.column width="40%"}
@@ -59,15 +55,11 @@ knitr::include_graphics("power_img.jpg")
 
 ```
 :::
-
-:::
-
+::::::
 
 ### The motion picture: leveraging movement to enhance AI object detection in ecology
 
-
-::: {.columns}
-
+:::::: columns
 ::: {.column width="58%"}
 Maslen, B., Popovic, G., Wang, D., Jansen, A., & Warton, D. (2025)
 
@@ -75,9 +67,10 @@ This study evaluates whether movement information can improve automated object d
 
 [Read the paper](https://doi.org/10.1002/ece3.71996) · [Code](https://github.com/BenMaslen/MCD) · [Benchmark data](https://doi.org/10.5061/dryad.sbcc2frf7)
 :::
-::: {.column width="2%"}
 
+::: {.column width="2%"}
 :::
+
 ::: {.column width="40%"}
 ```{r, echo=FALSE}
 #| out-width: "80%"
@@ -87,14 +80,12 @@ knitr::include_graphics("movement.jpg")
 
 ```
 :::
-
-:::
-
-
+::::::
 
 ## Supervision
 
-I am not currently supervising any research students, however, if you are interested in my research and are looking for a supervisor, feel free to [get in touch](mailto:b.maslen\@unsw.edu.au), I have plenty of ideas for future research projects.
+I am not currently supervising any research students, however, if you are interested in my research and are looking for a supervisor, feel free to [get in touch](mailto:b.maslen@unsw.edu.au), I have plenty of ideas for future research projects.
+
 
 ### Past supervision
 
@@ -104,4 +95,4 @@ Stats Central, UNSW (2018-2019, 2021-2026) – I have met and helped with the su
 
 ## Collaboration
 
-I welcome conversations about interdisciplinary research involving statistical design, data science, modelling, prediction, uncertainty quantification or reproducible analysis, particularly with applications in ecology. Feel free to [get in touch](mailto:b.maslen\@unsw.edu.au) if you are interested in collaborating on a research project.
+I welcome conversations about interdisciplinary research involving statistical design, data science, modelling, prediction, uncertainty quantification or reproducible analysis, particularly with applications in ecology. Feel free to [get in touch](mailto:b.maslen@unsw.edu.au) if you are interested in collaborating on a research project.

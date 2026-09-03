@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching | Ben Maslen"
 ---
 
 I teach statistics and data science with an emphasis on conceptual understanding, practical application and active engagement. My aim is to help students become confident users of statistical reasoning—not simply users of statistical or data science software.
@@ -9,13 +9,12 @@ I teach statistics and data science with an emphasis on conceptual understanding
 | Course | Role | Institution | Year |
 |:-----------------|:-----------------|:-----------------|:-----------------|
 | Civil and Environmental Engineering Computations ([CVEN2002](https://www.handbook.unsw.edu.au/undergraduate/courses/2025/CVEN2002)) | Lecturer | School of Mathematics and Statistics, UNSW | 2026 |
-| Introduction to Mixed Models with R  | Lecturer | Stats Central, UNSW | 2026 |
-| Statistics for Medical Science  | Lecturer | Stats Central, UNSW | 2025-2026 |
-| Introduction to Regression with R  | Lecturer | Stats Central, UNSW | 2019, 2021-2025 |
-| Introduction to R  | Lecturer | Stats Central, UNSW | 2019, 2022 |
-| Introduction to Statistics with R  | Lecturer | Stats Central, UNSW | 2022 |
-| Ecological statistics short course  | Lecturer | Stats Central, UNSW | 2018-2019, 2021-2022 |
-| Higher Probability and Stochastic Processes  ([MATH3901](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3901)) | Academic Demonstrator | School of Mathematics and Statistics, UNSW | 2018 |
+| Introduction to Mixed Models with R | Lecturer | Stats Central, UNSW | 2026 |
+| Statistics for Medical Science | Lecturer | Stats Central, UNSW | 2025-2026 |
+| Introduction to Regression with R | Lecturer | Stats Central, UNSW | 2019, 2021-2025 |
+| Introduction to R | Lecturer | Stats Central, UNSW | 2019, 2022 |
+| Introduction to Statistics with R | Lecturer | Stats Central, UNSW | 2022 |
+| Ecological statistics short course | Lecturer | Stats Central, UNSW | 2018-2019, 2021-2022 |
+| Higher Probability and Stochastic Processes ([MATH3901](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3901)) | Academic Demonstrator | School of Mathematics and Statistics, UNSW | 2018 |
 | Numerical Methods and Statistics ([MATH2089](https://www.handbook.unsw.edu.au/undergraduate/courses/2026/MATH2089)) | Academic Demonstrator | School of Mathematics and Statistics, UNSW | 2018 |
 | Mathematics for Life and Social Sciences ([MATH1031](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/MATH1031)) | Academic Demonstrator | School of Mathematics and Statistics, UNSW | 2018 |
-
