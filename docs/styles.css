@@ -37,10 +37,9 @@ blockquote {
 /* APA-style publications displayed as bullet points */
 
 #refs .csl-entry {
-  display: list-item;
-  list-style-type: disc;
+  display: block;
   margin-bottom: 0.2rem;
-  padding-left: 1.6rem;
+  padding-left: 0;
 }
 
 
