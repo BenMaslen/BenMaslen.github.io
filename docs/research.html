@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -232,7 +261,20 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="supervision" class="level2">
 <h2 class="anchored" data-anchor-id="supervision">Supervision</h2>
-<p>I am not currently supervising any research students, however, if you are interested in my research and are looking for a supervisor, feel free to <a href="mailto:b.maslen@unsw.edu.au">get in touch</a>, I have plenty of ideas for future research projects.</p>
+<p>I am not currently supervising any research students, however, if you are interested in one of the below research projects, or have your own research project idea and are looking for a supervisor, feel free to <a href="mailto:b.maslen@unsw.edu.au">get in touch</a>.</p>
+<section id="potential-student-projects" class="level3">
+<h3 class="anchored" data-anchor-id="potential-student-projects">Potential student projects</h3>
+<ul>
+<li>Develop methods to obtain unbiased fish length frequencies from stereo underwater videos using distance sampling to obtain probability of detection per differently sized fish.</li>
+<li>Estimate bias from baiting in underwater videos using simulation, and undergo power analysis of unbaited videos using AI object detection to show unbaited videos analysed through AI can achieve similar power to baited videos which have issues with bias.</li>
+<li>Develop methods to convert point annotation data from manually analysed videos to large scale object detection algorithms.</li>
+<li>AI object detection of stereo videos to automate distance sampling abundance estimation.</li>
+<li>Model uncertainty from AI predictions in subsequent downstream abundance regression models.</li>
+<li>Combine multiple sources of shark data (e.g.&nbsp;from commercial bycatch, drumline and tagging, human-shark mortality rates, coastal drone observations, Close-Kin Mark-Recapture abundance estimates) in joint mixture models to look at how shark abundance has changed over time.</li>
+<li>Use deep learning algorithms to produce large scale species distribution models on citizen science data (e.g.&nbsp;<a href="https://ebird.org/">ebird</a> or <a href="https://www.inaturalist.org/">Inaturalist</a>) and use explainable AI (e.g.&nbsp;SHAP values) to gain inference.</li>
+<li>Partition <span class="math inline">\(\beta\)</span>-diversity (species compositional changes across sites) into ‘nestedness’ &amp; ‘turnover’ components using multivariate generalised mixed models.</li>
+</ul>
+</section>
 <section id="past-supervision" class="level3">
 <h3 class="anchored" data-anchor-id="past-supervision">Past supervision</h3>
 <p>School of Mathematics and Statistics, UNSW (2026) – Supervisor for two groups of Masters students taking the Data Science and Decisions Project course (DATA5925 &amp; MATH5925), guiding students to independently research and analyse a VISA tribunal outcomes dataset, tackling real world data science problems.</p>
