@@ -7,7 +7,7 @@ I teach statistics and data science with an emphasis on conceptual understanding
 ## Teaching experience
 
 | Course | Role | Institution | Year |
-|:-----------------|:-----------------|:-----------------|:-----------------|
+|:---|:---|:---|:---|
 | Civil and Environmental Engineering Computations ([CVEN2002](https://www.handbook.unsw.edu.au/undergraduate/courses/2025/CVEN2002)) | Lecturer | School of Mathematics and Statistics, UNSW | 2026 |
 | Introduction to Mixed Models with R | Lecturer | Stats Central, UNSW | 2026 |
 | Statistics for Medical Science | Lecturer | Stats Central, UNSW | 2025-2026 |

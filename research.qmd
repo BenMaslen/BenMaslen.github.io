@@ -88,14 +88,14 @@ I am not currently supervising any research students, however, if you are intere
 
 ### Potential student projects
 
-- Develop methods to obtain unbiased fish length frequencies from stereo underwater videos using distance sampling to obtain probability of detection per differently sized fish.
+- Develop methods to obtain unbiased fish length frequencies from stereo underwater videos using distance sampling to obtain probability of detection per differently sized fish. This will allow more honest depictions of fish size distributions sampled from underwater videos in assessing the health of a fish population.
 - Estimate bias from baiting in underwater videos using simulation, and undergo power analysis of unbaited videos using AI object detection to show unbaited videos analysed through AI can achieve similar power to baited videos which have issues with bias.
-- Develop methods to convert point annotation data from manually analysed videos to large scale object detection algorithms. 
+- Develop methods to convert point annotation data from manually analysed videos to large scale object detection algorithms.
 - AI object detection of stereo videos to automate distance sampling abundance estimation.
 - Model uncertainty from AI predictions in subsequent downstream abundance regression models.
 - Combine multiple sources of shark data (e.g. from commercial bycatch, drumline and tagging, human-shark mortality rates, coastal drone observations, Close-Kin Mark-Recapture abundance estimates) in joint mixture models to look at how shark abundance has changed over time.
 - Use deep learning algorithms to produce large scale species distribution models on citizen science data (e.g. [ebird](https://ebird.org/) or [Inaturalist](https://www.inaturalist.org/)) and use explainable AI (e.g. SHAP values) to gain inference.
-- Partition $\beta$-diversity (species compositional changes across sites) into 'nestedness' & 'turnover' components using multivariate generalised mixed models. 
+- Partition $\beta$-diversity (species compositional changes across sites) into 'nestedness' & 'turnover' components traditionally measured using arbitrary metrics, using multivariate generalised mixed models instead. 
 
 
 ### Past supervision
