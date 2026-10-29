@@ -16,7 +16,7 @@ I am currently working on:
 - Developing a novel method for estimating abundance whilst accounting for imperfect detection from stereo remote underwater videos using distance sampling.
 - Obtaining bias-adjusted length frequency distributions from fish in stereo remote underwater videos using distance sampling.
 
-For a full list of my published research, please refer to the [**Publications**](publications.qmd) tab.
+For a full list of my published research, please refer to the [**Publications**](publications.qmd) tab and for projects I plan to work on in the future, see potential student projects below.
 
 ## Publications of interest
 
@@ -95,7 +95,8 @@ I am not currently supervising any research students, however, if you are intere
 - Model uncertainty from AI predictions in subsequent downstream abundance regression models.
 - Combine multiple sources of shark data (e.g. from commercial bycatch, drumline and tagging, human-shark mortality rates, coastal drone observations, Close-Kin Mark-Recapture abundance estimates) in joint mixture models to look at how shark abundance has changed over time.
 - Use deep learning algorithms to produce large scale species distribution models on citizen science data (e.g. [ebird](https://ebird.org/) or [Inaturalist](https://www.inaturalist.org/)) and use explainable AI (e.g. SHAP values) to gain inference.
-- Partition $\beta$-diversity (species compositional changes across sites) into 'nestedness' & 'turnover' components traditionally measured using arbitrary metrics, using multivariate generalised mixed models instead. 
+- Partition $\beta$-diversity (species compositional changes across sites) into 'nestedness' & 'turnover' components traditionally measured using arbitrary metrics, using multivariate generalised mixed models instead.
+- Use variational autoencoders as a fast, deep learning approach to model multivariate abundance data and produce ordination plots.
 
 
 ### Past supervision
